@@ -1,0 +1,14 @@
+name: xyz v abc
+register no:147ec2100x
+             First Semester Result
+
+Name of the course            Max       CIE       SEE       Total
+
+   Digital Electronics            125         24         95         119
+   Statistics and anylysis   125          23         98        121 
+   CAD Graphics                     125          15         41        56
+   FEEE                                      125          16         50        66
+   Total                                      125          78        284      362
+
+Percentage        72.4
+Result                  first   class with   distinction.
